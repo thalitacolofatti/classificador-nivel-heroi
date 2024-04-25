@@ -6,7 +6,6 @@ let nivel = ""
 let niveis = ["Ferro", "Bronze", "Prata", "Ouro", "Platina", "Ascendente", "Imortal", "Radiante"]
 
 var i = 0;
-var j = 0;
 
 while (i < herois.length) {
   nome = herois[i][0];
